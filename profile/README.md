@@ -1,3 +1,3 @@
 # HappySeal Studio
 
-![Logo](./assets/banner.png)
+![banner](./assets/banner.png)
